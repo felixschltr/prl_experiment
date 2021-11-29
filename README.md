@@ -12,3 +12,8 @@ The proposed experiment is set up to investigate cognitive control in persons wi
 
 * see [this PDF](https://github.com/felixschltr/prl_experiment/blob/master/data_file_instructions.pdf) for explanation on all variables saved in the data file
 
+**Note:** the following image files for the social feedback condition are not contained in `/gfx` and must be added in order for the code to run:
+  - `fb_s_neg_f.png`
+  - `fb_s_neg_m.png`
+  - `fb_s_pos_f.png`
+  - `fb_s_pos_m.png`
