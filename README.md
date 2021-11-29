@@ -1,6 +1,6 @@
 # prl_experiment
 
-This repo contains the files of a Uni-project on programming an experiment in Matlab using [Psychtoolbox 3](http://psychtoolbox.org/).
+Contains files of a uni-project on programming experiments in Matlab using [Psychtoolbox 3](http://psychtoolbox.org/).
 
 The proposed experiment is set up to investigate cognitive control in persons with Autism Spectrum Disorder (ADD) based on a probabilistic reversal learning (PRL) task.
 
